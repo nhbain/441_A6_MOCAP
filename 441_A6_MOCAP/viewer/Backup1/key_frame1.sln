@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "fltk.lib", "..\fltk-1.0.11\visualc\fltk.lib.vcxproj", "{4285539A-A33B-4B98-8176-4EE49F2F0150}"
+EndProject
+Project("{059D6162-CD51-11D0-AE1F-00A0C90FFFC3}") = "key_frame1", "key_frame1.vcxproj", "{5D7092CE-5D0C-46CC-B440-AEA76C3F43C0}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

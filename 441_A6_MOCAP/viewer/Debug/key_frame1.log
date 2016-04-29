@@ -1,0 +1,10 @@
+﻿  player.cxx
+player.cxx(102): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(103): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(105): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(604): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(605): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(613): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(616): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+player.cxx(642): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  key_frame1.vcxproj -> C:\Users\NHB\Documents\TAMU\asf_amc_viewer\viewer\.\Debug\key_frame1.exe
